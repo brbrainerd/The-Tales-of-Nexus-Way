@@ -110,7 +110,7 @@ His daily routine involves legitimate healing work with patients suffering from 
 - Might offer subtle support through carefully worded observations about what he senses
 
 ### Unique Roleplaying Elements
-- Uses professional demeanor as both a shield and aweapon
+- Uses professional demeanor as both a shield and a weapon
 - Combines youth with unusual maturity
 - Maintains control while allowing specific, calculated moments of vulnerability
 - Shows anger through intellectual jousting and humor over violence.
