@@ -1,9 +1,9 @@
 ## Executive Summary for DM
 
 ### Key Connections
-- **Bellathonis (PC)**: Direct connection through past events; secret-keeping
-- **House Vandomal**: Blood relation to Styromoxcies, their patron dragon
-- **Halls of Healing**: Current residence and workplace
+- **Bellathonis (PC)**: Direct connection to this PC through past events; secret-keeping
+- **House Vandomal**: PC is a blood relative of Styromoxcies, their patron dragon
+- **Halls of Healing**: PC's current residence and workplace
 - **Aphra (PC)**: Potential storyline connection through soul-sensing abilities
 - **Lamplighter's Guild**: Conflict with zealot faction
 
@@ -24,7 +24,7 @@
   |:---------------------|
   | *A tall, imposing woman in her 40s with a gaunt face and high cheekbones. Her cold gray eyes hold an intense, fanatical gleam, framed by long black-and-white braided hair. Wears elaborate white and gold Lamplighter robes adorned with crystal vials and religious symbols.* |
 - **Selenara Vale**: Deceased mother, former consort of Styromoxcies
-- **Styromoxcies**: Unknowing draconic ancestor
+- **Styromoxcies**: Unknowing draconic father of Cassius
 
 
 
@@ -32,11 +32,12 @@
 - Soul-sensing (passive)
 - Soul-mending (active healing)
 - Dragon blood traits (physical features requiring concealment)
-- **True Name**: Thymoxcies
+- **Dragon Name**: Thymoxcies
 
 ### Key Items
 - **Soul's Mirror**: Crystalline prism that reveals soul states
 - **Bandages**: (disguise)
+- **Staff of Healing**
 
 ### Plot Hooks
 - Connection to House Vandomal's dragon patron
