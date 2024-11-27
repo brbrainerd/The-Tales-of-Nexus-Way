@@ -9,17 +9,17 @@
 
 ### Important Characters
 - **Cassius Lucian**: Protagonist, apprentice healer with dragon blood
-  ![Cassius Lucian](https://i.imgur.com/UH9bJZF.jpg)
+  ![Cassius Lucian](https://raw.githubusercontent.com/brbrainerd/The-Tales-of-Nexus-Way/master/Cassius%20Lucian/WINNER.jpg)
   | Character Description |
   |:---------------------|
   | *A slender 14-year-old youth with pale skin and subtle iridescent scales visible at the edges of clean white medical bandages. Large, bright violet eyes with vertical slit pupils peer out from delicate facial features. Short silver-white hair catches light with a metallic sheen. Wears simple but well-made healer's robes in pale blues and grays.* |
 - **Dr. Thaddeus Lucian**: Adoptive guardian, Headmaster of Halls of Healing
-  ![Dr. Thaddeus Lucian](https://i.imgur.com/sx9rMMS.jpg)
+  ![Dr. Thaddeus Lucian](https://raw.githubusercontent.com/brbrainerd/The-Tales-of-Nexus-Way/master/Doctor%20Thaddius%20Lucian.png)
   | Character Description |
   |:---------------------|
   | *A dignified elderly man in his 70s with sharp, hawkish features and a well-groomed white beard. Wears formal physician's robes in deep blue with silver trim. Projects authority through his stern but kind eyes behind wire-rimmed spectacles, carrying an ornate walking stick with medical symbols.* |
 - **Sister Moira**: Antagonist, soul-harvesting zealot
-  ![Sister Moira](https://i.imgur.com/tuzw1GW.jpg)
+  ![Sister Moira](https://raw.githubusercontent.com/brbrainerd/The-Tales-of-Nexus-Way/master/Sister%20Moira/Designer%20(1).jpeg)
   | Character Description |
   |:---------------------|
   | *A tall, imposing woman in her 40s with a gaunt face and high cheekbones. Her cold gray eyes hold an intense, fanatical gleam, framed by long black-and-white braided hair. Wears elaborate white and gold Lamplighter robes adorned with crystal vials and religious symbols.* |
