@@ -2,9 +2,9 @@
 
 ### Key Connections
 - **Bellathonis (PC)**: Direct connection to this PC through past events; secret-keeping
-- **House Vandomal**: PC is a blood relative of Styromoxcies, their patron dragon
+- **House Vandomal**: PC is a secret blood relative of Styromoxcies
 - **Halls of Healing**: PC's current residence and workplace
-- **Aphra (PC)**: Potential storyline connection through soul-sensing abilities
+- **Aphra (PC)**: Potential storyline connection through soul-mending abilities
 - **Lamplighter's Guild**: Conflict with zealot faction
 
 ### Important Characters
@@ -23,7 +23,7 @@
   | Character Description |
   |:---------------------|
   | *A tall, imposing woman in her 40s with a gaunt face and high cheekbones. Her cold gray eyes hold an intense, fanatical gleam, framed by long black-and-white braided hair. Wears elaborate white and gold Lamplighter robes adorned with crystal vials and religious symbols.* |
-- **Selenara Vale**: Deceased mother, former consort of Styromoxcies
+- **Selenara Vale**: Deceased mother of Cassius, former consort of Styromoxcies
 - **Styromoxcies**: Unknowing draconic father of Cassius
 
 
@@ -48,9 +48,9 @@
 
 ## Narrative Backstory
 
-*In the perpetual twilight of Nexus Way*, where the artificial sun casts long shadows between the realms, young Cassius Lucian lives as a protected ward in the Halls of Healing. He is known only as apprentice healer, a quiet student of his craft. Beneath his carefully wrapped bandages ebbs the blood of Styromoxcies, the dragon whose influence helps maintain House Vandomal's precarious position among the great houses.
+*In the perpetual twilight of Nexus Way*, where the artificial sun casts long shadows between the realms, young Cassius Lucian lives as a protected ward in the Halls of Healing. He is known only as apprentice healer, a quiet but dutiful student of his craft. Beneath his carefully wrapped bandages ebbs the blood of Styromoxcies, the dragon whose influence helps maintain House Vandomal's precarious position among the great houses.
 
-The truth of Cassius's heritage remains hidden even from Styromoxcies himself. His mother, Selenara Vale, was one of the dragon's rare human consorts, working as a soul-healer in the Halls of Healing. She kept her illegitimate son secret, fearing that Cassius might become a target, not did she wish to damage Styromoxcies's reputation. Her fears proved well-founded when, three years ago, she became entangled in a plot by the Luminarch's zealots - religious extremists within the Lamplighter's Guild who believed that those with dragon blood could be used to enhance their control over the artificial sun.
+The truth of Cassius's heritage remains hidden even from Styromoxcies himself. Cassius's mother, Selenara Vale, was one of the dragon's human consorts, working as a soul-healer in the Halls of Healing. She kept her illegitimate son secret, fearing that Cassius might become a target, or that she might damage Styromoxcies's reputation. Her fears proved well-founded when, three years ago, she became entangled in a plot by the Luminarch's zealots - religious extremists within the Lamplighter's Guild who believed that those with dragon blood could be used to enhance their control over the artificial sun.
 
 When Cassius was eleven years old, a group of robed figures from the Luminarch's inner circle arrived with a "patient" - a soul merchant they had captured. Before Cassius's eyes, they began a ritual to forcibly extract information about dragon bloodlines from the merchant's soul. The process went horrifically wrong, and Cassius watched in horror as the merchant's soul was literally torn apart.
 
@@ -80,13 +80,13 @@ His daily routine involves legitimate healing work with patients suffering from 
 
 *From the private journals of Cassius Lucian:*
 
-> "Kindness and competence can be a scalpel in the hands of the right surgeon. I live surrounded by priests, whispering honey-dipped words while their spirits scream of sulferous corruption. When they look at me, they see a child--naive, easily cowed. Perhaps I am. But no more. Publicly, I war with them through immaculate procedure. Privately, I plan to depart."
+> "Kindness and competence can be a weapon in the hands of the right man. I live surrounded by evangelists, bellowing honey-dipped lies while their spirits yearn in lustrous greed. When they look at me, they see a child--naive, easily cowed. Perhaps I am.  In the morning, I heal with immaculate consistency. In the evening, I plot my escape."
 
-> "Mother taught me that vulnerability is not the same as weakness. I choose carefully when to let down my guard, when to let others see the boy beneath the bandages. In the past, this has helped patients trust in their healing, but it has also warded away those who think only in terms of personal gain."
+> "Mother taught me that having a vulnerability need not make one weak. I choose carefully when to let down my guard, when to let others see the boy beneath the bandages. In the past, this has helped patients trust in their healing."
 
-> "I find comfort in precision - in the terminology of the healing arts, and in carefully coded notes about the tableau of souls. Doctor Lucian says I process my feelings like an alchemist concocts a tincture: carefully, and in measured doses. When you have witnessed proof against the lie of the immortality of souls, and when you yourself live behind a veil of necessary lies...sometimes the only way to know what is right is to treat the man in front of you."
+> "I find comfort in precision - in the terminology of the healing arts, and in carefully coded notes about the tableau of souls. Doctor Lucian says I process my observations like an alchemist concocts a tincture: carefully, and in measured doses. When you have witnessed proof against the lie of the immortality of human souls, and when you yourself live behind a veil of necessary lies...sometimes the only way js forward, to shut up and treat the man in front of you."
 
-> "The Mirror helps. Through its prism, everything becomes clearer. Mother would say that I am too young to yearn for an earlier time, but in Nexus Way, survival often means growing up faster than the artificial sun can set."
+> "The Mirror helps. Through its prism, all thought becomes clearer.  Mother would say that I am too young to yearn for an earlier time, but in Nexus Way, survival often means growing up faster than the artificial sun can set."
 
 ## Potential PC Interactions
 
