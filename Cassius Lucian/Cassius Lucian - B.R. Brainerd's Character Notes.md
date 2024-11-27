@@ -84,7 +84,7 @@ His daily routine involves legitimate healing work with patients suffering from 
 
 > "Mother taught me that vulnerability is not the same as weakness. I choose carefully when to let down my guard, when to let others see the boy beneath the bandages. In the past, this has helped patients trust in their healing, but it has also warded away those who think only in terms of personal gain."
 
-> "I find comfort in precision - in the terminology of the healing arts, and in carefully coded notes about the tableau of souls. Doctor Lucian says I process my feelings like an alchemist concocts a tincture: carefully, and in measured doses. When you have witnessed proof against the lie of the immortality of souls, and when you yourself live behind a veil of necessary lies...sometimes the only way to know what is right is to study the actions of others as a physician examines a wound."
+> "I find comfort in precision - in the terminology of the healing arts, and in carefully coded notes about the tableau of souls. Doctor Lucian says I process my feelings like an alchemist concocts a tincture: carefully, and in measured doses. When you have witnessed proof against the lie of the immortality of souls, and when you yourself live behind a veil of necessary lies...sometimes the only way to know what is right is to treat the man in front of you."
 
 > "The Mirror helps. Through its prism, everything becomes clearer. Mother would say that I am too young to yearn for an earlier time, but in Nexus Way, survival often means growing up faster than the artificial sun can set."
 
@@ -110,8 +110,8 @@ His daily routine involves legitimate healing work with patients suffering from 
 - Might offer subtle support through carefully worded observations about what he senses
 
 ### Unique Roleplaying Elements
-- Uses professional demeanor as both shield and weapon
-- Combines youth with unusual maturity without losing authenticity
+- Uses professional demeanor as both a shield and aweapon
+- Combines youth with unusual maturity
 - Maintains control while allowing specific, calculated moments of vulnerability
-- Shows anger through competence rather than outbursts
-- Processes trauma through helping others while still acknowledging his own pain
+- Shows anger through intellectual jousting and humor over violence.
+- Processes trauma through helping others.
