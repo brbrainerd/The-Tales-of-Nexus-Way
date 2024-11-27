@@ -84,7 +84,7 @@ His daily routine involves legitimate healing work with patients suffering from 
 
 > "Mother taught me that having a vulnerability need not make one weak. I choose carefully when to let down my guard, when to let others see the boy beneath the bandages. In the past, this has helped patients trust in their healing."
 
-> "I find comfort in precision - in the terminology of the healing arts, and in carefully coded notes about the tableau of souls. Doctor Lucian says I process my observations like an alchemist concocts a tincture: carefully, and in measured doses. When you have witnessed proof against the lie of the immortality of human souls, and when you yourself live behind a veil of necessary lies...sometimes the only way js forward, to shut up and treat the man in front of you."
+> "I find comfort in precision - in the terminology of the healing arts, and in carefully coded notes about the tableau of souls I see daily. Doctor Lucian says I process my observations like an alchemist concocts a tincture: carefully, and in measured doses. When you have witnessed proof against the lie of the immortality of human souls, and when you yourself live behind a veil of necessary lies...the only way is forward, to shut up and treat the man in front of you."
 
 > "The Mirror helps. Through its prism, all thought becomes clearer.  Mother would say that I am too young to yearn for an earlier time, but in Nexus Way, survival often means growing up faster than the artificial sun can set."
 
